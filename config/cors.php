@@ -21,6 +21,8 @@ return [
 
     'allowed_origins' => ['*'],
 
+    // 'allowed_origins' => ['http://127.0.0.1:8002', '*.example.org'],
+
     'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
